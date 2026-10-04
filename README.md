@@ -165,4 +165,16 @@ This project can be useful for:
 
 ## 👩‍💻 Author
 
-Built as a Generative AI / Prompt Engineering project.
+**Kittu**
+
+Generative AI / AI Engineering enthusiast focused on building practical LLM applications, RAG systems, AI agents, and prompt evaluation platforms.
+
+GitHub: [kittu171](https://github.com/kittu171)
+
+---
+
+## 📌 Project Status
+
+**Status: Completed ✅**
+
+This project was built as a practical demonstration of an AI-powered prompt evaluation and optimization platform using local LLMs, FastAPI, LangChain, Ollama, and Docker.
